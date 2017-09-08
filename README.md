@@ -1,2 +1,2 @@
 # hello-world
-Just to start using GitHub
+Starting using GitHub
